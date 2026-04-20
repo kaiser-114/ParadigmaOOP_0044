@@ -8,6 +8,9 @@ class Mahasiswa{
         string nama;
         float nilai;
 
-        void printData(){}
+        void printData(){
+            cout << "NIM : " << nim << endl;
+
+        }
 }; //batas class
 

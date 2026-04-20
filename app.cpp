@@ -15,3 +15,12 @@ class Mahasiswa{
         }
 }; //batas class
 
+int main(){
+    Mahasiswa mhs;
+    mhs.nim = 2023;
+    mhs.nama = "Ibra";
+    mhs.nilai = 85.5;
+
+    mhs.printData();
+    return 0;
+}

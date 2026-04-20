@@ -5,6 +5,7 @@ class Mahasiswa{
     
     public :
         int nim;
-      
+        string nama;
+
 }; //batas class
 
